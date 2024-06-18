@@ -1,4 +1,3 @@
-import React from "react";
 import image6 from "../assets/image6.jpeg";
 import { FaRegCalendarDays } from "react-icons/fa6";
 import { TbUserCheck } from "react-icons/tb";

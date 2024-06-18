@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import image6 from "../assets/image6.jpeg";
 import { LuCalendarDays } from "react-icons/lu";
 import { CiClock2 } from "react-icons/ci";

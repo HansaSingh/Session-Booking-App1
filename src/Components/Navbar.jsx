@@ -1,4 +1,3 @@
-import React from "react";
 import { FaBell, FaComment, FaGlobe } from "react-icons/fa";
 import { MdSearch } from "react-icons/md";
 import { Link } from "react-router-dom";

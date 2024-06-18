@@ -1,4 +1,3 @@
-import React from "react";
 import image28 from "../assets/image28.svg";
 import image17 from "../assets/image17.svg";
 import image19 from "../assets/image19.svg";
@@ -10,7 +9,7 @@ const HomePage = () => {
         <div className="flex flex-col items-start md:w-1/2">
           <h1 className="text-3xl font-bold">WORK WITH STARTUPS</h1>
           <p className="mt-2 text-gray-700 font-bold text-left">
-            We're dedicated to bridging the gap between aspiring students
+            We&apos;re dedicated to bridging the gap between aspiring students
             <br />
             and innovative startups, creating opportunities that <br />
             know no boundaries.

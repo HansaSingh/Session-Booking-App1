@@ -1,5 +1,3 @@
-import React from "react";
-
 import HomePage from "../Components/HomePage";
 import Bar from "../Components/Bar";
 import Grid from "../Components/Grid";
@@ -18,7 +16,8 @@ function Landing() {
           Ready to take the first step towards an exciting career journey?
         </h1>
         <h3 className="text-3xl mt-10">
-          Explore Bigstartups Network's "Work with Startups" <br />
+          Explore Bigstartups Network&apos;s &quot;Work with Startups&quot;{" "}
+          <br />
           section today and unlock a world of possibilities.
         </h3>
         <button className=" w-4/12 mt-10 bg-red-500 text-white py-2 px-6 rounded-full hover:bg-red-600 ml-5">

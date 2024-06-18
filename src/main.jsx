@@ -12,6 +12,7 @@ import Landing from "./Components/Landing";
 import ProfilePage from "./Components/ProfilePage";
 import ConsultationCard from "./Components/ConsultationCard";
 import BookingPage from "./Components/BookingPage";
+import React from "react";
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<Layout />}>
